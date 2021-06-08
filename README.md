@@ -1,3 +1,3 @@
 # Daily-Journal-blog-Website
 
-You can acess thid website @ https://sleepy-temple-98535.herokuapp.com/
+You can acess this website @ https://afternoon-ridge-26407.herokuapp.com/
